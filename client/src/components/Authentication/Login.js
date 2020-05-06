@@ -29,8 +29,8 @@ const login = async() =>{
           </div>
           
         </form>
-        <input className="btn waves-effect waves-light" onClick={login} type="button"/>
-               Вход
+        <input className="btn waves-effect waves-light" value="Вход" onClick={login} type="button"/>
+               
         
     </div>
     
