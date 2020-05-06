@@ -1,0 +1,6 @@
+{
+    "PORT":5000,
+    "mongoUri":"mongodb+srv://Vlad:Barcelona1899@cluster0-xjpvx.mongodb.net/App",
+    "hashedRounds":5,
+    "jwtSecret":"Barcelona"
+}
